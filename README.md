@@ -16,5 +16,4 @@
 <h2> THE GAME ALSO SUPPORTS EXPLORER/MICROSOFT EDGE. </h2 >
 
 <h2> Contact me :</h2>
-<li>Email: <b><a href="mailto:patilmayank1520@gmail.com">patilmayank1520@gmail.com</a></b></li>
 <li>Telegram: <a href="https://t.me/DEVIL_1OO"><b>TELEGRAM</li>
