@@ -1,19 +1,14 @@
-# SHOOTING-GAME-IN-JAVASCRIPT
+# SHOOTING GAME IN JAVASCRIPT
 
-<h1> Contact me <a href=https://t.me/DEVIL_1OO><img src=https://img.shields.io/badge/Telegram-2CA5E0? /></a> </h1 > 
+<h1> 📧 Contact Me: <a href="mailto:contactmayank@aol.com"> Click Me</a></h1> 
 
 <a href="https://ibb.co/FKFM4k7"><img src="https://i.ibb.co/0c2C5vp/sg.png" alt="sg" border="0"></a><br />
 
-<h1><p>SHOOTING GAME IS DEVELOPED USING HTML, CSS, AND JAVASCRIPT. TALKING ABOUT THE GAMEPLAY, IT IS A SIMPLE GAME IN WHICH THE PLAYER HAS TO SHOOT ALL THE TOWARDS MOVING RED BALLS. THE PLAYER HAS TO SHOOT THE BALLS USING THE RIGHT-CLICK, SHOT SCORE POINTS INCREASE AS THE PLAYER STARTS SHOOTING. IT IS A SIMPLE ACTION GAME WITH THE OBJECTIVE OF DESTROYING RED BALLS AND GAINING ACCURACY POINTS. ALSO, THE PLAYER HAS TO AIM THE MOVING BALLS BY MOVING THE MOUSE CURSOR. ALL THE BALLS MOVE RAPIDLY SO IT’S A BIT HARD TO DESTROY ALL AT THE SAME TIME. YOU HAVE TO SHOOT THE BALLS BEFORE IT TOUCHES YOUR SHOOTING OBJECT.</p></h1 > 
+<h1> 🎮 Shooting Game </h1>
+<p>Developed using <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>. In this simple action game, you aim to shoot all the <span style="color: red;">moving red balls</span> using the <strong>right-click</strong>. The more you shoot, the higher your score!</p>
 
-<h1> ABOUT PROJECT </h1>
-<h2><p> TALKING ABOUT THE PC CONTROLS OF THIS GAME, IT’S ALL SIMPLE. ALL YOU HAVE TO DO IS ENTER THE RIGHT-CLICK AND MOVE THE MOUSE CURSOR FOR MOVEMENTS. THIS IS A SIMPLE 2D ACTION GAME CREATED IN JAVASCRIPT. THE GAMEPLAY SPEED MIGHT BE A BIT FAST. THE PROJECT USES JAVASCRIPT FOR ALL THE GAMING FUNCTIONS WHEREAS, FOR THE LAYOUTS AND DESIGN, IT USES HTML AND CSS. FOR THE DEVELOPMENT OF THIS 2D GAME, VARIOUS IMAGES HAVE BEEN USED.</p></h2 > 
+<h1> 📜 About the Project </h1>
+<p>Controls are easy! Just use the <strong>right-click</strong> to shoot and move your mouse to aim. This 2D game offers fast-paced gameplay, challenging you to hit as many balls as possible before they reach you.</p>
 
-<h1 >How To Run The Project? </h1>
-
-<h2> TO RUN THIS PROJECT, WE RECOMMEND YOU TO USE MODERN BROWSERS SUCH AS <a href="https://www.google.com/chrome/">GOOGLE CHROME</a>,<a href="https://www.mozilla.org/en-US/firefox/new/">MOZILLA FIREFOX</a>. </h2>
-
-<h2> THE GAME ALSO SUPPORTS EXPLORER/MICROSOFT EDGE. </h2 >
-
-<h2> Contact me :</h2>
-<li>Telegram: <a href="https://t.me/DEVIL_1OO"><b>TELEGRAM</li>
+<h1> 🚀 How to Run the Project </h1>
+<p>For the best experience, use modern browsers like <a href="https://www.google.com/chrome/">Google Chrome</a> or <a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>. It also supports <strong>Microsoft Edge</strong>.</p>
