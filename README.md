@@ -1,4 +1,4 @@
-# SHOOTING GAME IN JAVASCRIPT
+# RedBallShooter JavaScript
 
 <h1> 📧 Contact Me: <a href="mailto:contactmayank@aol.com"> Click Me</a></h1> 
 
